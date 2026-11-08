@@ -1,0 +1,2 @@
+# SANKET-Edge-AI-First-Aid-Guidance-for-Medical-Emergencies-in-Hindi-Marathi-and-English
+Offline-first Android app that gives cited first-aid guidance in English, Hindi and Marathi. A YOLOv5s model detects burns and wounds on-device, rule-based triage sets urgency, and FAISS retrieval returns steps verbatim from Red Cross, Mayo Clinic, NHS and St John. Built with TFLite, FastAPI, React Native and Convex.
